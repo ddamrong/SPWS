@@ -5,4 +5,4 @@ The SPWS project was finally completed after about three years of work. The begi
 
 The real fun and challenge of this project lies in the energy management, on how manage solar energy and batteries to be able to use without having to look after it. The rough idea is to want the battery to be able to last in the case if there is no sunlight for 3-4 days, which is the reason for choosing ESP32 because it can be coded to go into deep sleep mode while not in use.
 
-The first prototype is now being installed at my place in Samut Prakan. Do a field test for a year and then see what will be developed next. Perhaps add a set of speed and wind direction measurements in the future
+The first prototype is now being installed at my place in Samut Prakan. Do a field test for a year and then see what will be developed next. Perhaps add a set of speed and wind direction measurements in the future.
